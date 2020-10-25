@@ -1,6 +1,6 @@
 idioma = "nodejs"
-# run = "cd frontend-mi-proyecto-ppi && npm i"
-# run = "cd frontend-mi-proyecto-ppi && npm start"
-#run = "cd backend-mi-proyecto-ppi && npm i"
-ejecutar = "cd backend-mi-proyecto-ppi && npm run dev"
+# run = "cd frontend-cef && npm i"
+# run = "cd frontend-cef && npm start"
+#run = "cd backend-cef && npm i"
+ejecutar = "cd backend-cef && npm run dev"
 
