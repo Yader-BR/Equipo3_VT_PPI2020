@@ -1,6 +1,6 @@
-idioma = "nodejs"
+languaje = "nodejs"
 # run = "cd frontend-cef && npm i"
 # run = "cd frontend-cef && npm start"
 #run = "cd backend-cef && npm i"
-ejecutar = "cd backend-cef && npm run dev"
+run = "cd backend-cef && npm run dev"
 
