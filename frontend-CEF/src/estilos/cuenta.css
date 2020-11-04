@@ -1,0 +1,23 @@
+.titulo{
+color: blue;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 70px;
+  text-align: center;
+}
+.form-group{
+width: 100%;
+max-width: 330px;
+padding: 15px;
+margin: auto; 
+text-align: center;
+}
+.body{
+ 
+background-image: url(https://k41.kn3.net/taringa/1/0/8/3/1/6/81/dwn19/F34.jpg?8489)
+}
+.cuenta{
+color: yellow;
+}
+.abajo{
+color: white;
+}

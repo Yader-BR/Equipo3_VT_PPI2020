@@ -1,0 +1,13 @@
+.imagen{
+height: 600px;
+width: 900px;
+}
+.Historieta{
+  height: 600px;
+  width: 900px;
+}
+.sub{
+font-family: 'Courier New', Courier, monospace;
+color:blue;
+font-size: 50px;
+}
